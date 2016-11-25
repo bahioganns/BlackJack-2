@@ -5,7 +5,7 @@ package com.company;
  */
 public class Human extends Player {
 
-    public Human(Intellect intrllect) {
-        super(intrllect);
+    public Human(Intellect intrllect, String name) {
+        super(intrllect, name);
     }
 }
