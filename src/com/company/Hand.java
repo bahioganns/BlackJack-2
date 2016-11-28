@@ -22,4 +22,8 @@ public class Hand extends LinkedList<Card> {
                 return true;
         return false;
     }
+
+    public void clean() {
+
+    }
 }
